@@ -1,6 +1,6 @@
 # Paratroopers
 
-Recreated the classic Paratroopers game with some new features and difficulty levels using Unity3D Gaming Engine. <br />
+Recreated the classic Paratroopers game with some new features and difficulty levels using **Unity3D Gaming Engine.** <br />
 
 **Innovations added:**
 1. Three levels of difficulty
