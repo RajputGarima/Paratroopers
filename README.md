@@ -4,7 +4,7 @@ Recreated the classic Paratroopers game with some new features and difficulty le
 
 **Innovations added:**
 1. Three levels of difficulty
-2. Player gets 3 different powers once he crosses Level-1 that can be used one at a time
+2. Player gets four different powers once he crosses Level-1 that can be used one at a time
 3. Frequency of helicopters/jets, dropping troops/bombs increases with each level
 4. Score Multiplier(for 5 seconds) feature in 3rd level
 5. Two new stronger enemies introduced in 3rd level
