@@ -10,6 +10,6 @@ Recreated the classic Paratroopers game with some new features and difficulty le
 5. 2 new stronger enemies introduced in 3rd level
 
 ## Level 1 Scene: ![picture](Level1.png)
-## Level 2 Scene: ![picture](Level2.png) <br /> <br /> <br />
-## Levle 3 Scene: ![picture](Level3.png) <br /> <br /> <br />
-## Game Over Scene: ![picture](GameOver.png) <br /> <br /> <br />
+## Level 2 Scene: ![picture](Level2.png) 
+## Levle 3 Scene: ![picture](Level3.png) 
+## Game Over Scene: ![picture](GameOver.png) 
